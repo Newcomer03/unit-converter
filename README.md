@@ -1,6 +1,6 @@
 # unit-converter
 
-## This is a Unit Converter web app
+## This is a Metric/Imperial Unit Converter web app
 
 It has the following features:
 * Converts meters to feet and vice-versa
