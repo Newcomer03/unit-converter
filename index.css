@@ -22,6 +22,7 @@ body {
     padding: 0;
     width: 550px;
     margin: 0 auto;
+    radius: 10px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     border-left: 50px solid #1C1C1C;
     border-right: 50px solid #1C1C1C;
